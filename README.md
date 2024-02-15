@@ -2,7 +2,14 @@
 
 This is a production-ready, responsive UI for a calendar application similar to Google Calendar. The application uses a custom data structure with mock data, and it handles all-day events, private events, and drag and drop events within a day.
 
+### Images
 
+
+<p align="center">
+<img src="https://drive.google.com/uc?id=1dJxCvNHkRqvCRlbJbft1F_ioT-O5Afv4" alt="Image" width="400" />
+ <img src="https://drive.google.com/uc?id=1k238g1pEKFIJ5V380C_MtYbrwKjOuLae" alt="Image" width="400" />
+
+</p>
 
 ### Frontend Deploy
 #-  [Live Frontend](https://google-calendar-clone-three.vercel.app/) 
