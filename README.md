@@ -29,4 +29,11 @@ This is a production-ready, responsive UI for a calendar application similar to 
 5. Red line indicating the current time.
 6. Clicking on an event opens a modal showing the event details.
 
-Email: bethimanideep@gmail.com
+7. 
+### Contact Information
+
+For any queries and feedback, please contact me at [bethimanideep@gmail.com](mailto:bethimanideep@gmail.com).
+
+---
+
+<h1 align="center">✨Thank You✨</h1>
